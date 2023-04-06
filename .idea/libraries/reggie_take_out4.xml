@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reggie_take_out4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day05/reggie_take_out.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
